@@ -1,0 +1,9 @@
+
+stemming and CounterVectorizer : similarity (movie_df2)
+
+stemming and TF-IDF: similarity2 (movie_df2)
+
+
+WordNetLemmatizer and CounterVectorizer : similarity (movie_df3)
+
+WordNetLemmatizer and TF-IDF: similarity2 (movie_df3)

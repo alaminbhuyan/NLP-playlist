@@ -1,0 +1,9 @@
+
+
+1) CV_similarity.pkl ---> Recommendation system2.ipynb
+
+2) CV_similarity2.pkl ---> Recommendation system.ipynb
+
+3) tf_idf_similarity.pkl ---> Recommendation system.ipynb
+
+4) tf_idf_similarity2.pkl ---> Recommendation system2.ipynb
